@@ -183,7 +183,7 @@
         </includes>
         <filtering>true</filtering>
       </resource>
-    </resources> -->
+    </resources>-->
     <plugins>
       <plugin>
         <!--用maven mybatis插件
