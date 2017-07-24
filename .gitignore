@@ -23,3 +23,4 @@ hs_err_pid*
 
 # 过滤目录
 /target/
+/logs/
